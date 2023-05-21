@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T19:59:31.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="C6x1sGzRqCDv-krB9sC_" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-21T20:09:59.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EexqpBQSg5Cs9oOYnHOM" version="21.2.3" type="github" pages="2">
   <diagram name="Load Balancer - NodePort" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1802" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -343,6 +343,9 @@
             <mxPoint x="560" y="470" as="sourcePoint" />
             <mxPoint x="610" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7Zo1ZTNGPGkOBNmu1tod-41" value="Internal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="230" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
